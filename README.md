@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rifat
-- 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning swift and dart
 - You can reach me through fiverr  https://www.fiverr.com/share/gdNpX9 
 <!---
