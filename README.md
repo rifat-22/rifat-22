@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rifat
-- 🌱 I’m currently learning swift and dart.
+- 🌱 I’m currently learning spring boot.
 - You can reach me through rifatfahmida00@gmail.com
 
 
